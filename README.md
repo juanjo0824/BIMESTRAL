@@ -31,3 +31,154 @@ En la comunidad existe la necesidad de una escuela de microfútbol que ofrezca e
 Aporte :
 
 Crear una escuela deportiva que brinde entrenamientos profesionales, organice torneos y contribuya al crecimiento físico, social y deportivo de los jugadores.
+
+3. Épicas
+
+Épica
+
+	
+
+Descripción
+
+
+
+
+Gestión de estudiantes
+
+	
+
+Registrar y administrar alumnos
+
+
+
+
+Gestión de entrenadores
+
+	
+
+Control de entrenadores
+
+
+
+
+Gestión de grupos
+
+	
+
+Crear categorías y horarios
+
+
+
+
+Gestión de entrenamientos
+
+	
+
+Organizar sesiones deportivas
+
+
+
+
+Gestión de pagos
+
+	
+
+Controlar matrículas y mensualidades
+
+4. Historias de usuario
+
+ID
+
+	
+
+Historia
+
+
+
+
+HU1
+
+	
+
+Como estudiante quiero inscribirme en la escuela.
+
+
+
+
+HU2
+
+	
+
+Como padre quiero matricular a mi hijo.
+
+
+
+
+HU3
+
+	
+
+Como entrenador quiero ver mis grupos.
+
+
+
+
+HU4
+
+	
+
+Como entrenador quiero registrar asistencia.
+
+
+
+
+HU5
+
+	
+
+Como estudiante quiero consultar mi horario.
+
+
+
+
+HU6
+
+	
+
+Como administrador quiero crear grupos.
+
+
+
+
+HU7
+
+	
+
+Como administrador quiero registrar entrenadores.
+
+
+
+
+HU8
+
+	
+
+Como administrador quiero registrar pagos.
+
+
+
+
+HU9
+
+	
+
+Como estudiante quiero ver próximos torneos.
+
+
+
+
+HU10
+
+	
+
+Como administrador quiero generar reportes.
